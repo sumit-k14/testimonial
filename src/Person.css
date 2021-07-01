@@ -1,0 +1,10 @@
+.description {
+  text-align: justify;
+  font-size: 1.1rem;
+  font-weight: 400;
+  margin-bottom: 0;
+}
+
+.hidden {
+  display: none;
+}
